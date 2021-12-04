@@ -3,4 +3,4 @@ author: AlexMC
 main: alexmc\AlertMessage
 version: 0.0.1
 api: [3.2.6]
-github:
+github: https://github.com/AlexYTMC
